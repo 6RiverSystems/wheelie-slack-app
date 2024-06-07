@@ -11,12 +11,12 @@
   "license": "CC0-1.0",
   "dependencies": {
     "bluebird": "^3.4.1",
-    "node-fetch": "^1.5.3",
+    "node-fetch": "^2.6.7",
     "querystring": "^0.2.0",
-    "redis": "^2.6.3",
+    "redis": "^3.1.1",
     "restify": "^4.2.0",
-    "slack": "^8.4.2",
-    "yargs": "^6.3.0"
+    "slack": "^11.0.2",
+    "yargs": "^17.7.2"
   },
   "engines": {
     "node": "18.15.0"
